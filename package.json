@@ -1,0 +1,26 @@
+{
+  "name": "projeto13-batepapouol",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielIbiapina/Projeto13-BatePapoUOL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielIbiapina/Projeto13-BatePapoUOL/issues"
+  },
+  "homepage": "https://github.com/DanielIbiapina/Projeto13-BatePapoUOL#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
